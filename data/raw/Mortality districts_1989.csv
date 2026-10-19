@@ -1,0 +1,879 @@
+state,district,year,brural,drural,idrural,burban,durban,idurban
+andhra pradesh,adilabad,1988,944,698,5,2474,559,0
+andhra pradesh,adilabad,1989,1271,550,7,2570,599,0
+andhra pradesh,anantapur,1988,22417,8331,187,11406,2993,262
+andhra pradesh,anantapur,1989,17096,6884,93,12090,3146,262
+andhra pradesh,chittoor,1988,14642,7481,378,12939,3074,406
+andhra pradesh,chittoor,1989,13450,7279,51,13027,3143,353
+andhra pradesh,cuddapah,1988,4961,2509,7,7518,1408,83
+andhra pradesh,cuddapah,1989,3297,1656,4,6442,1214,64
+andhra pradesh,east godavari,1988,12510,5009,188,20584,5935,695
+andhra pradesh,east godavari,1989,7675,3782,115,22949,6103,544
+andhra pradesh,guntur,1988,17579,9068,59,27991,6322,622
+andhra pradesh,guntur,1989,13122,6512,42,27429,5758,435
+andhra pradesh,hyderabad ,1988,0,0,0,98184,19540,2711
+andhra pradesh,hyderabad ,1989,0,0,0,97424,19363,3224
+andhra pradesh,karimnagar,1988,4565,3061,9,8010,1758,286
+andhra pradesh,karimnagar,1989,3215,1952,15,97,36,0
+andhra pradesh,khamam,1988,12341,5168,36,6196,1056,58
+andhra pradesh,khamam,1989,9486,4287,40,7422,1105,66
+andhra pradesh,krishna,1988,8889,4007,41,21011,4401,606
+andhra pradesh,krishna,1989,8089,3632,28,24646,5266,623
+andhra pradesh,kurnool,1988,23568,8467,164,15479,4130,452
+andhra pradesh,kurnool,1989,19875,6945,167,15068,3749,390
+andhra pradesh,medak,1988,5147,2522,60,2083,287,3
+andhra pradesh,medak,1989,3983,2185,69,1962,183,7
+andhra pradesh,mehbubnagar,1988,10377,5270,66,1045,724,1
+andhra pradesh,mehbubnagar,1989,3121,1848,22,242,80,0
+andhra pradesh,nalgonda,1988,12197,6277,87,3417,225,1
+andhra pradesh,nalgonda,1989,11076,5392,65,1511,89,0
+andhra pradesh,nellore,1988,13351,8109,34,11856,2078,279
+andhra pradesh,nellore,1989,14864,7837,54,12819,2052,224
+andhra pradesh,nizamabad,1988,4009,1810,53,7611,1329,164
+andhra pradesh,nizamabad,1989,2649,1240,30,1962,306,6
+andhra pradesh,ongole (prakasam),1988,26943,11457,288,5233,1120,65
+andhra pradesh,ongole (prakasam),1989,21659,8440,164,2917,633,15
+andhra pradesh,rangareddi,1988,12228,4992,137,2341,398,4
+andhra pradesh,rangareddi,1989,8475,4223,135,1358,263,0
+andhra pradesh,srikakulam,1988,15366,6737,125,2095,670,80
+andhra pradesh,srikakulam,1989,9499,4823,61,1965,586,78
+andhra pradesh,visakhapatnam,1988,5457,3103,57,12351,4488,280
+andhra pradesh,visakhapatnam,1989,4464,2646,49,14753,5043,350
+andhra pradesh,vizianagaram,1988,3269,1419,8,5398,1642,59
+andhra pradesh,vizianagaram,1989,2412,1272,24,4869,1624,70
+andhra pradesh,warangal,1988,8646,4333,53,15035,3045,659
+andhra pradesh,warangal,1989,15325,7825,83,16259,2826,604
+andhra pradesh,west godavari,1988,3288,1999,15,14350,2771,223
+andhra pradesh,west godavari,1989,1715,939,8,15742,3340,228
+arunachal pradesh,changlang,1988,662,131,15,0,0,0
+arunachal pradesh,changlang,1989,2865,93,13,0,0,0
+arunachal pradesh,dibang valley,1988,422,37,3,0,0,0
+arunachal pradesh,dibang valley,1989,287,40,.,0,0,0
+arunachal pradesh,east kameng,1988,328,142,25,0,0,0
+arunachal pradesh,east kameng,1989,568,161,29,0,0,0
+arunachal pradesh,east siang,1988,85,22,0,438,135,70
+arunachal pradesh,east siang,1989,285,29,7,436,149,31
+arunachal pradesh,lohit,1988,443,5,0,766,5,.
+arunachal pradesh,lohit,1989,1684,35,2,1177,19,3
+arunachal pradesh,lower subansiri,1988,1047,182,100,1965,21,.
+arunachal pradesh,lower subansiri,1989,392,50,2,3079,106,32
+arunachal pradesh,tawang,1988,275,28,5,0,0,0
+arunachal pradesh,tawang,1989,300,70,4,0,0,0
+arunachal pradesh,tirap,1988,597,200,34,0,0,0
+arunachal pradesh,tirap,1989,430,57,11,0,0,0
+arunachal pradesh,upper subansiri,1988,201,59,19,0,0,0
+arunachal pradesh,upper subansiri,1989,261,86,4,0,0,0
+arunachal pradesh,west kamang,1988,239,124,26,512,87,18
+arunachal pradesh,west kamang,1989,511,118,19,134,47,6
+arunachal pradesh,west siang,1988,2290,160,37,1175,64,14
+arunachal pradesh,west siang,1989,1410,106,19,804,62,14
+assam,barpeta,1988,4915,426,0,1348,138,0
+assam,barpeta,1989,21079,291,0,2291,239,10
+assam,cachar,1988,17397,1803,57,6205,1374,87
+assam,cachar,1989,23835,1637,29,5347,2017,103
+assam,darrang,1988,.,.,.,.,.,.
+assam,darrang,1989,.,.,.,.,.,.
+assam,dhubri,1988,15194,796,56,2057,535,90
+assam,dhubri,1989,.,.,.,.,.,.
+assam,dibrugarh,1988,16142,2346,190,5419,456,0
+assam,dibrugarh,1989,.,.,.,.,.,.
+assam,goalpara,1988,2714,333,15,891,138,14
+assam,goalpara,1989,7567,614,11,1702,313,8
+assam,golaghat,1988,.,.,.,.,.,.
+assam,golaghat,1989,3114,1104,54,1806,648,36
+assam,jorhat,1988,3777,912,14,4533,970,19
+assam,jorhat,1989,3830,1018,9,3470,730,5
+assam,kamrup,1988,.,.,.,.,.,.
+assam,kamrup,1989,.,.,.,.,.,.
+assam,kokrajhar,1988,3584,219,3,2415,140,0
+assam,kokrajhar,1989,.,.,.,.,.,.
+assam,korbi anglong,1988,1441,61,0,706,43,0
+assam,korbi anglong,1989,3752,34,2,1715,29,0
+assam,karimganj,1988,13693,489,14,1611,463,78
+assam,karimganj,1989,13790,500,14,1992,427,72
+assam,nagaon,1988,.,.,.,.,.,.
+assam,nagaon,1989,.,.,.,.,.,.
+assam,n.c hills,1988,.,.,.,.,.,.
+assam,n.c hills,1989,.,.,.,.,.,.
+assam,nalbari,1988,.,.,.,.,.,.
+assam,nalbari,1989,.,.,.,.,.,.
+assam,lakhimpur,1988,1721,167,2,2889,822,69
+assam,lakhimpur,1989,3785,864,39,2189,238,0
+assam,sibsagar,1988,.,.,.,.,.,.
+assam,sibsagar,1989,.,.,.,.,.,.
+assam,saintpur,1988,12268,2109,186,3449,701,69
+assam,saintpur,1989,13001,1976,134,3623,819,77
+bihar,aurangabad,1988,14393,4750,392,943,186,17
+bihar,aurangabad,1989,12175,4948,327,120,96,0
+bihar,bhagalpur,1988,19842,8024,233,1879,594,0
+bihar,bhagalpur,1989,19654,7937,399,2641,1472,0
+bihar,bhojpur,1988,17717,7876,255,6176,1638,137
+bihar,bhojpur,1989,16351,7608,240,6138,1806,105
+bihar,begusarai,1988,13882,7281,253,212,161,2
+bihar,begusarai,1989,13099,7318,617,199,105,0
+bihar,darbhanga,1988,12272,9379,563,486,414,0
+bihar,darbhanga,1989,12292,9414,382,372,381,0
+bihar,deoghar,1988,9084,3939,171,2023,229,2
+bihar,deoghar,1989,8492,3381,277,2003,367,5
+bihar,dhanbad,1988,6290,2892,99,12615,2021,309
+bihar,dhanbad,1989,4964,2792,36,11403,2624,334
+bihar,dumka,1988,7570,3179,44,46,61,0
+bihar,dumka,1989,9743,3245,16,40,90,0
+bihar,gaya,1988,16999,6283,563,9088,2117,226
+bihar,gaya,1989,19948,9898,968,4099,2205,174
+bihar,godda,1988,4897,2994,164,72,81,3
+bihar,godda,1989,4199,2193,201,999,197,23
+bihar,gopal ganj,1988,12582,5323,131,180,146,3
+bihar,gopal ganj,1989,11353,4751,143,189,148,.
+bihar,giridih,1988,7208,2962,63,902,87,5
+bihar,giridih,1989,7939,3482,122,503,65,0
+bihar,gumla,1988,8531,4342,140,159,66,0
+bihar,gumla,1989,10636,5793,170,172,105,0
+bihar,hazaribag,1988,16888,3730,159,2835,933,315
+bihar,hazaribag,1989,15435,6227,127,3853,941,223
+bihar,jehanabad,1988,6538,2917,282,666,58,0
+bihar,jehanabad,1989,5487,3050,123,247,31,0
+bihar,katihar,1988,11622,4733,215,816,327,14
+bihar,katihar,1989,9670,4462,193,1562,546,72
+bihar,khagaria,1988,7193,3622,204,991,347,54
+bihar,khagaria,1989,6614,3033,221,1336,315,28
+bihar,lohardagga,1988,3362,1027,49,615,72,14
+bihar,lohardagga,1989,3199,1106,62,630,115,17
+bihar,madhepura,1988,10185,3795,111,653,240,12
+bihar,madhepura,1989,9067,3602,107,685,247,19
+bihar,madhubani,1988,15718,7840,9,569,230,4
+bihar,madhubani,1989,14611,7202,1,97,93,1
+bihar,munger,1988,15523,8378,230,4511,976,23
+bihar,munger,1989,13549,7310,644,5372,1254,26
+bihar,muzaffarpur,1988,15182,6629,913,5355,898,49
+bihar,muzaffarpur,1989,14268,6462,113,3854,957,25
+bihar,nalanda,1988,13857,6457,80,3573,1293,79
+bihar,nalanda,1989,12531,6298,624,2016,653,61
+bihar,nawada,1988,11029,4283,210,1308,488,77
+bihar,nawada,1989,9796,3911,209,1483,539,38
+bihar,palamu,1988,16858,5658,309,2074,829,62
+bihar,palamu,1989,16906,6503,307,1656,419,19
+bihar,paschim champaran,1988,13721,5704,181,267,215,0
+bihar,paschim champaran,1989,15357,5906,197,248,278,1
+bihar,patna,1988,8180,4749,255,17758,10156,599
+bihar,patna,1989,10311,5355,313,18149,10013,394
+bihar,purba champaran,1988,14445,7205,179,4142,1205,35
+bihar,purba champaran,1989,14549,7479,182,4332,1695,34
+bihar,purnia,1988,16809,7698,220,1355,621,29
+bihar,purnia,1989,19505,9220,265,3000,1401,56
+bihar,ranchi,1988,13043,5582,89,8750,2355,313
+bihar,ranchi,1989,11407,5310,131,8928,2794,142
+bihar,rohtas,1988,27239,9006,420,3837,416,11
+bihar,rohtas,1989,25438,9048,466,3893,422,9
+bihar,saharsa,1988,18931,6767,196,3288,783,67
+bihar,saharsa,1989,21220,7623,391,2631,644,91
+bihar,samastipur,1988,15179,7601,286,381,213,0
+bihar,samastipur,1989,15147,7510,339,388,232,7
+bihar,sahibganj,1988,8141,3999,164,894,555,51
+bihar,sahibganj,1989,7061,3659,93,260,142,0
+bihar,saran,1988,11257,6485,144,1482,1069,31
+bihar,saran,1989,11652,5910,93,1439,999,36
+bihar,singbhum,1988,12659,6526,49,15663,3599,393
+bihar,singbhum,1989,12119,7299,47,14358,3913,447
+bihar,sitamarhi,1988,16811,7760,80,1212,489,72
+bihar,sitamarhi,1989,16980,8218,175,1192,460,26
+bihar,siwan,1988,20313,8007,164,1961,510,33
+bihar,siwan,1989,16966,7109,121,1938,504,41
+bihar,vaisali,1988,10394,5844,246,3080,225,8
+bihar,vaisali,1989,6923,4009,91,1402,200,1
+goa,north goa,1988,5997,3035,43,6220,2231,275
+goa,north goa,1989,3785,2675,27,7577,2188,276
+goa,south goa,1988,2479,1967,25,6218,1606,117
+goa,south goa,1989,1941,1719,24,7198,1495,106
+gujarat,ahmadabad,1988,23895,8009,332,92108,32911,3665
+gujarat,ahmadabad,1989,25124,5897,240,98468,31682,3756
+gujarat,amreli,1988,18249,2954,115,8507,1451,104
+gujarat,amreli,1989,15738,2549,201,7848,1359,117
+gujarat,banaskantha,1988,18638,6396,556,9949,1590,203
+gujarat,banaskantha,1989,17950,4287,460,10993,1498,179
+gujarat,bhavnagar,1988,24926,5040,213,26247,6995,639
+gujarat,bhavnagar,1989,22153,3576,336,25111,6409,645
+gujarat,bharuch,1988,27507,8771,465,10850,2553,201
+gujarat,bharuch,1989,28229,7392,449,7418,1544,114
+gujarat,gandhinagar,1988,4202,1650,52,2489,423,22
+gujarat,gandhinagar,1989,4277,1177,28,2491,318,16
+gujarat,jamnagar,1988,18760,3684,197,20569,5233,527
+gujarat,jamnagar,1989,16978,3037,234,20304,4335,473
+gujarat,junagadh,1988,23323,4057,166,24801,6065,717
+gujarat,junagadh,1989,19406,3546,228,20002,4717,445
+gujarat,kachchh,1988,11484,2788,214,11433,1887,165
+gujarat,kachchh,1989,12419,2842,409,11891,2084,135
+gujarat,kheda,1988,46053,16621,1106,28489,6549,585
+gujarat,kheda,1989,43774,13579,893,27678,5840,520
+gujarat,mehsana,1988,31174,10079,366,28411,4045,288
+gujarat,mehsana,1989,30085,7292,289,31481,3639,222
+gujarat,panch mahal,1988,43241,9744,1125,14453,2343,183
+gujarat,panch mahal,1989,40905,7850,411,14041,2102,135
+gujarat,rajkot,1988,28276,5695,373,28448,7897,1155
+gujarat,rajkot,1989,27580,4866,421,30482,7637,806
+gujarat,sabarkantha,1988,16806,5963,180,7025,842,49
+gujarat,sabarkantha,1989,16985,4667,288,4830,692,66
+gujarat,surat,1988,21820,7681,204,40939,2211,289
+gujarat,surat,1989,22811,6994,297,11129,1186,91
+gujarat,surendranagar,1988,22971,6327,544,11287,3394,353
+gujarat,surendranagar,1989,20858,4029,510,10461,2718,264
+gujarat,the dangs,1988,4381,695,60,.,.,.
+gujarat,the dangs,1989,4264,831,113,.,.,.
+gujarat,vadodara,1988,24552,9108,370,30712,10109,1002
+gujarat,vadodara,1989,28731,8429,483,28511,9825,922
+gujarat,valsad,1988,12289,4401,89,18266,3625,271
+gujarat,valsad,1989,16078,4264,131,18360,3160,183
+haryana,ambala,1988,26033,6387,760,18639,4027,490
+haryana,ambala,1989,25622,6088,693,17480,3980,460
+haryana,bhiwani,1988,17528,5649,451,4946,1612,232
+haryana,bhiwani,1989,19038,4650,306,5470,1355,170
+haryana,faridabad,1988,12166,3369,324,15612,2988,403
+haryana,faridabad,1989,12870,2888,236,16474,2440,280
+haryana,gurgaon,1988,17409,4605,369,4946,1015,81
+haryana,gurgaon,1989,17701,3620,298,5667,910,69
+haryana,hisar,1988,23906,7491,417,8499,2108,160
+haryana,hisar,1989,25445,6591,343,9244,2099,141
+haryana,jind,1988,15987,4921,289,3826,1165,95
+haryana,jind,1989,17465,4274,248,4086,930,93
+haryana,karnal,1988,25768,6199,492,10812,2552,242
+haryana,karnal,1989,25886,6150,544,11276,2398,158
+haryana,kurukshetra,1988,20057,4959,334,6928,1587,173
+haryana,kurukshetra,1989,20651,5024,359,7033,1455,129
+haryana,mahendragarh,1988,18950,6086,528,6869,1356,187
+haryana,mahendragarh,1989,21307,4933,426,7902,1148,134
+haryana,rohtak,1988,20692,6806,305,10188,4004,654
+haryana,rohtak,1989,24544,5828,238,10798,3856,559
+haryana,sirsa,1988,9914,3196,227,3915,836,62
+haryana,sirsa,1989,10802,3030,170,3791,809,45
+haryana,sonipat,1988,17872,5056,354,4244,921,53
+haryana,sonipat,1989,19319,4428,253,4951,944,64
+himachal pradesh,bilaspur,1988,6039,1194,84,678,172,30
+himachal pradesh,bilaspur,1989,6126,1284,111,665,189,22
+himachal pradesh,chamba,1988,.,.,.,55,6,2
+himachal pradesh,chamba,1989,.,.,.,55,6,2
+himachal pradesh,hamirpur,1988,6043,931,60,163,55,5
+himachal pradesh,hamirpur,1989,5683,856,27,910,155,10
+himachal pradesh,kangra,1988,16091,2559,62,1946,241,37
+himachal pradesh,kangra,1989,13725,4117,46,2511,334,55
+himachal pradesh,kinaur,1988,715,219,19,.,.,.
+himachal pradesh,kinaur,1989,713,204,10,.,.,.
+himachal pradesh,kullu,1988,7312,1276,121,1149,342,72
+himachal pradesh,kullu,1989,6956,1212,78,1078,246,48
+himachal pradesh,lahul & spitti,1988,413,127,13,.,.,.
+himachal pradesh,lahul & spitti,1989,.,.,.,.,.,.
+himachal pradesh,mandi,1988,11057,1721,54,1075,103,.
+himachal pradesh,mandi,1989,13081,2221,59,1035,113,1
+himachal pradesh,shimla,1988,4917,1260,101,3662,912,201
+himachal pradesh,shimla,1989,5768,1686,139,3721,998,173
+himachal pradesh,sirmaur,1988,5951,1312,20,1140,322,55
+himachal pradesh,sirmaur,1989,6003,1322,102,1281,333,38
+himachal pradesh,solan,1988,7300,3751,35,1406,208,15
+himachal pradesh,solan,1989,7409,3793,40,1216,182,16
+himachal pradesh,una,1988,7565,1533,73,277,65,2
+himachal pradesh,una,1989,6025,1189,70,245,49,4
+jammu & kashmir,anantnag,1988,6053,3153,85,1457,304,4
+jammu & kashmir,anantnag,1989,6647,3172,87,759,317,3
+jammu & kashmir,badgam,1988,2824,874,4,60,16,0
+jammu & kashmir,badgam,1989,2553,879,4,13,19,0
+jammu & kashmir,baramula,1988,4019,2570,40,759,290,0
+jammu & kashmir,baramula,1989,4743,2595,44,1384,295,0
+jammu & kashmir,doda,1988,6606,978,50,68,127,0
+jammu & kashmir,doda,1989,7509,989,51,426,129,0
+jammu & kashmir,jammu,1988,10682,3143,109,10952,2080,67
+jammu & kashmir,jammu,1989,8941,3145,109,.,.,47
+jammu & kashmir,kargil,1988,732,431,7,.,.,.
+jammu & kashmir,kargil,1989,813,447,10,.,.,.
+jammu & kashmir,kathua,1988,7873,1959,188,951,206,2
+jammu & kashmir,kathua,1989,8395,1960,188,709,210,2
+jammu & kashmir,kupwara,1988,2146,1248,19,137,34,4
+jammu & kashmir,kupwara,1989,1725,1256,21,86,39,4
+jammu & kashmir,leh,1988,420,147,4,125,21,0
+jammu & kashmir,leh,1989,363,151,4,130,21,0
+jammu & kashmir,pulwama,1988,3283,1601,49,383,161,4
+jammu & kashmir,pulwama,1989,3520,1617,49,394,164,3
+jammu & kashmir,punch,1988,1851,597,19,276,45,1
+jammu & kashmir,punch,1989,813,617,22,96,48,1
+jammu & kashmir,rajauri,1988,3197,1013,30,149,41,2
+jammu & kashmir,rajauri,1989,2622,1040,33,161,48,2
+jammu & kashmir,srinagar,1988,1316,792,4,23063,1549,4
+jammu & kashmir,srinagar,1989,1105,799,4,26847,1726,1
+jammu & kashmir,udhampur,1988,11311,2481,240,347,60,.
+jammu & kashmir,udhampur,1989,9812,2505,247,420,63,.
+karnataka,bangalore,1988,9461,4936,108,89800,24680,3012
+karnataka,bangalore,1989,1942,7929,96,92180,24074,2665
+karnataka,belgaum,1988,37271,13318,436,24060,4432,98
+karnataka,belgaum,1989,35056,11586,452,28882,5138,105
+karnataka,ballary,1988,14837,4687,341,7576,3072,119
+karnataka,ballary,1989,14355,4459,388,8535,3356,238
+karnataka,bidar,1988,9108,3176,157,3734,622,3
+karnataka,bidar,1989,9924,3386,188,2973,400,1
+karnataka,bijapur,1988,37555,13099,658,17645,2619,86
+karnataka,bijapur,1989,35442,11520,709,21316,4077,106
+karnataka,chickmagalur,1988,5960,2389,118,6550,1052,47
+karnataka,chickmagalur,1989,5453,2157,77,6836,843,33
+karnataka,chitradurga,1988,19523,5473,285,10524,3396,192
+karnataka,chitradurga,1989,17131,5040,194,12252,2978,114
+karnataka,dakashin kannad,1988,28534,10267,359,25945,5059,412
+karnataka,dakashin kannad,1989,29515,10179,376,25883,4732,302
+karnataka,dharwar,1988,38924,13230,819,28297,6887,439
+karnataka,dharwar,1989,37984,12112,858,35400,7873,515
+karnataka,gulbarga,1988,20712,8346,405,7159,1633,13
+karnataka,gulbarga,1989,22702,8512,496,5758,1082,11
+karnataka,hassan,1988,11967,4168,88,8337,1432,35
+karnataka,hassan,1989,12020,4315,138,8999,1430,24
+karnataka,kodagu,1988,2376,1305,26,4373,572,27
+karnataka,kodagu,1989,2659,1494,47,4998,664,20
+karnataka,kolar,1988,14126,5262,143,8991,2761,64
+karnataka,kolar,1989,16441,5970,163,10369,2685,40
+karnataka,mandya,1988,12173,4717,100,7405,1021,21
+karnataka,mandya,1989,12921,4980,125,8353,1064,17
+karnataka,mysore,1988,24889,9665,420,26013,3817,709
+karnataka,mysore,1989,26437,10018,516,26632,7146,697
+karnataka,raichur,1988,14871,6010,317,3843,685,27
+karnataka,raichur,1989,18539,7976,632,4088,1092,14
+karnataka,shimoga,1988,16331,4978,309,4063,1693,1
+karnataka,shimoga,1989,16395,5246,336,13269,2478,23
+karnataka,tumkur,1988,11891,5595,169,7477,1592,22
+karnataka,tumkur,1989,17314,6302,209,8961,1723,58
+karnataka,uttar kannad,1988,6743,3325,63,12802,1816,106
+karnataka,uttar kannad,1989,4281,1940,18,13492,1810,44
+kerala,alleppey,1988,11476,7285,53,18229,3423,343
+kerala,alleppey,1989,10721,7420,54,18679,3376,240
+kerala,cannanore,1988,28942,9034,223,17929,2334,218
+kerala,cannanore,1989,25928,8878,225,17924,2329,174
+kerala,ernakulam,1988,11419,7382,129,38611,6826,489
+kerala,ernakulam,1989,11109,7394,150,39152,7108,516
+kerala,iduki,1988,13424,3419,168,4305,394,32
+kerala,iduki,1989,13424,3751,189,4202,359,28
+kerala,kasaragode,1988,11839,3971,72,10509,1119,134
+kerala,kasaragode,1989,11288,3861,75,10800,997,152
+kerala,kottayam,1988,22664,3983,329,10805,1342,72
+kerala,kottayam,1989,22497,9068,387,9860,1263,39
+kerala,kozhikode,1988,24570,7682,83,30814,8308,1575
+kerala,kozhikode,1989,23828,7223,51,33014,8577,1390
+kerala,malappuram,1988,65001,9477,364,15636,1747,258
+kerala,malappuram,1989,62477,9414,401,15826,1641,244
+kerala,palghat,1988,38707,11056,274,10466,2041,222
+kerala,palghat,1989,37731,11020,246,10767,2049,211
+kerala,pathanamthitta,1988,13757,5199,96,9495,1104,98
+kerala,pathanamthitta,1989,11839,5420,91,9162,1068,93
+kerala,quilon,1988,26706,8191,174,15466,2261,246
+kerala,quilon,1989,23757,7606,155,16260,2286,244
+kerala,trichur,1988,30897,11299,175,23088,3817,390
+kerala,trichur,1989,30579,11470,302,24353,3598,456
+kerala,trivandrum,1988,14288,8528,79,41870,7873,733
+kerala,trivandrum,1989,14154,8006,79,41525,8320,776
+kerala,wayanad,1988,13399,2501,163,.,.,.
+kerala,wayanad,1989,13210,2692,154,.,.,.
+madhya pradesh,balaghat,1988,.,.,.,.,.,.
+madhya pradesh,balaghat,1989,29930,10274,1783,3186,1074,193
+madhya pradesh,bastar,1988,.,.,.,.,.,.
+madhya pradesh,bastar,1989,26078,13510,1566,4464,765,95
+madhya pradesh,betul,1988,.,.,.,.,.,.
+madhya pradesh,betul,1989,24794,7999,1358,5634,946,113
+madhya pradesh,bhind,1988,.,.,.,.,.,.
+madhya pradesh,bhind,1989,11172,4611,362,5974,1182,204
+madhya pradesh,bhopal,1988,.,,,,,
+madhya pradesh,bhopal,1989,2298,936,108,45924,6351,472
+madhya pradesh,bilaspur,1988,.,.,.,.,.,.
+madhya pradesh,bilaspur,1989,74525,24927,2698,11342,2832,259
+madhya pradesh,chhatarpur,1988,.,.,.,.,.,.
+madhya pradesh,chhatarpur,1989,7289,3414,117,5575,1634,139
+madhya pradesh,chhindwara,1988,.,.,.,.,.,.
+madhya pradesh,chhindwara,1989,30134,10650,1417,7186,1520,222
+madhya pradesh,damoh,1988,.,.,.,.,.,.
+madhya pradesh,damoh,1989,17515,3905,1403,2242,550,33
+madhya pradesh,datia,1988,.,.,.,.,.,.
+madhya pradesh,datia,1989,2300,932,143,2909,381,31
+madhya pradesh,dewas,1988,.,.,.,.,.,.
+madhya pradesh,dewas,1989,6368,3347,179,8000,1181,66
+madhya pradesh,dhar,1988,.,.,.,.,.,.
+madhya pradesh,dhar,1989,9381,5354,411,4033,1261,122
+madhya pradesh,durg,1988,.,.,.,.,.,.
+madhya pradesh,durg,1989,44222,12951,2108,13935,3081,537
+madhya pradesh,east nimar (khandwa),1988,.,.,.,.,.,.
+madhya pradesh,east nimar (khandwa),1989,21057,7079,1015,10233,2311,205
+madhya pradesh,guna,1988,.,.,.,.,.,.
+madhya pradesh,guna,1989,11331,4243,541,6846,1426,187
+madhya pradesh,gwalior,1988,.,.,.,.,.,.
+madhya pradesh,gwalior,1989,4370,1760,65,16110,3851,123
+madhya pradesh,hoshangabad,1988,.,.,.,.,.,.
+madhya pradesh,hoshangabad,1989,20853,7427,1251,8119,1626,161
+madhya pradesh,indore,1988,.,.,.,.,.,.
+madhya pradesh,indore,1989,3136,1865,88,33391,7572,876
+madhya pradesh,jabalpur,1988,.,.,.,.,.,.
+madhya pradesh,jabalpur,1989,31735,13968,2169,31752,5076,367
+madhya pradesh,jhabua,1988,.,.,.,.,.,.
+madhya pradesh,jhabua,1989,3335,2055,101,2844,681,62
+madhya pradesh,mandla,1988,.,.,.,.,.,.
+madhya pradesh,mandla,1989,24688,10121,1654,1663,416,8
+madhya pradesh,mandsaur,1988,.,.,.,.,.,.
+madhya pradesh,mandsaur,1989,3999,3106,204,9626,2194,228
+madhya pradesh,morena,1988,.,.,.,.,.,.
+madhya pradesh,morena,1989,10390,4372,256,10739,1113,62
+madhya pradesh,narsimhapur,1988,.,.,.,.,.,.
+madhya pradesh,narsimhapur,1989,16595,6250,1526,3240,858,57
+madhya pradesh,panna,1988,.,.,.,.,.,.
+madhya pradesh,panna,1989,6875,2976,181,1199,453,60
+madhya pradesh,raigarh,1988,.,.,.,.,.,.
+madhya pradesh,raigarh,1989,32048,14100,1271,3466,896,132
+madhya pradesh,raipur,1988,.,.,.,.,.,.
+madhya pradesh,raipur,1989,81968,23898,2694,18050,4895,437
+madhya pradesh,raisen,1988,.,.,.,.,.,.
+madhya pradesh,raisen,1989,12303,4883,638,2177,569,65
+madhya pradesh,rajgarh,1988,.,.,.,.,.,.
+madhya pradesh,rajgarh,1989,7493,4528,351,3662,921,31
+madhya pradesh,rajnandgaon,1988,.,.,.,.,.,.
+madhya pradesh,rajnandgaon,1989,33517,11557,2205,4866,1464,114
+madhya pradesh,ratlam,1988,.,.,.,.,.,.
+madhya pradesh,ratlam,1989,3999,3106,204,9780,2415,282
+madhya pradesh,rewa,1988,.,.,.,.,.,.
+madhya pradesh,rewa,1989,7378,3798,96,3794,1830,57
+madhya pradesh,sagar,1988,.,.,.,.,.,.
+madhya pradesh,sagar,1989,26725,9939,1701,6351,2259,267
+madhya pradesh,satna,1988,.,.,.,.,.,.
+madhya pradesh,satna,1989,8815,4893,326,4513,1532,142
+madhya pradesh,sehore,1988,.,.,.,.,.,.
+madhya pradesh,sehore,1989,8581,3551,322,2945,719,96
+madhya pradesh,seoni,1988,.,.,.,.,.,.
+madhya pradesh,seoni,1989,20119,7301,1199,2992,439,42
+madhya pradesh,shahdol,1988,.,.,.,.,.,.
+madhya pradesh,shahdol,1989,7524,5364,228,2781,764,59
+madhya pradesh,shajapur,1988,.,.,.,.,.,.
+madhya pradesh,shajapur,1989,4770,3057,172,4668,950,36
+madhya pradesh,shivpuri,1988,.,.,.,.,.,.
+madhya pradesh,shivpuri,1989,10618,4060,376,5215,1090,157
+madhya pradesh,sidhi,1988,.,.,.,.,.,.
+madhya pradesh,sidhi,1989,6595,3114,129,755,320,53
+madhya pradesh,surguja,1988,.,.,.,.,.,.
+madhya pradesh,surguja,1989,19292,10681,485,2399,616,73
+madhya pradesh,tikamgarh,1988,.,.,.,.,.,.
+madhya pradesh,tikamgarh,1989,7385,3044,162,2383,476,10
+madhya pradesh,ujjain,1988,.,.,.,.,.,.
+madhya pradesh,ujjain,1989,11443,6307,909,15114,3344,338
+madhya pradesh,vidisha,1988,.,.,.,.,.,.
+madhya pradesh,vidisha,1989,8552,4577,305,3922,1157,135
+madhya pradesh,west nimar (khargone),1988,.,.,.,.,.,.
+madhya pradesh,west nimar (khargone),1989,7978,4554,264,8568,2126,295
+maharashtra,ahmadnagar,1988,92949,11063,802,24805,4036,554
+maharashtra,ahmadnagar,1989,84962,10877,623,24269,3834,588
+maharashtra,akola,1988,20106,7092,656,22034,4117,584
+maharashtra,akola,1989,19443,5811,509,20983,3936,514
+maharashtra,amravati,1988,22757,7911,746,28063,5476,629
+maharashtra,amravati,1989,23323,6259,542,26322,5231,649
+maharashtra,aurangabada,1988,21478,6853,666,21267,3081,391
+maharashtra,aurangabada,1989,20198,5611,513,24519,3165,446
+maharashtra,bhandara,1988,31514,11394,1655,8832,2505,388
+maharashtra,bhandara,1989,31776,11586,1440,8763,2274,265
+maharashtra,beed,1988,16290,5167,400,11214,1848,154
+maharashtra,beed,1989,15057,4098,294,10644,1730,204
+maharashtra,buldana,1988,29509,8807,1101,14377,2675,350
+maharashtra,buldana,1989,29375,7200,890,14817,2493,320
+maharashtra,chandrapur,1988,19960,6580,723,11183,2254,200
+maharashtra,chandrapur,1989,26853,7469,831,13667,2270,159
+maharashtra,dhule,1988,36092,13306,1275,14735,3276,213
+maharashtra,dhule,1989,36358,10558,941,15615,3312,189
+maharashtra,god chirole,1988,11889,3524,615,1013,187,7
+maharashtra,god chirole,1989,12244,3833,644,1315,212,2
+maharashtra,greater bombay ,1988,.,.,.,218300,74209,11593
+maharashtra,greater bombay ,1989,.,.,.,209325,73469,10794
+maharashtra,jaland,1988,14147,4067,439,4429,608,61
+maharashtra,jaland,1989,12202,3300,323,5777,880,84
+maharashtra,jalgaon,1988,48942,16418,1977,30184,5201,189
+maharashtra,jalgaon,1989,47884,13668,1363,30904,4880,114
+maharashtra,kolhapur,1988,32831,10452,589,27559,5906,1006
+maharashtra,kolhapur,1989,33331,10317,445,27820,5973,1000
+maharashtra,latur,1988,16202,4705,378,9867,927,146
+maharashtra,latur,1989,15768,3890,298,10630,941,131
+maharashtra,nagpur,1988,16232,6367,746,40177,12221,974
+maharashtra,nagpur,1989,18147,5926,597,47241,12381,942
+maharashtra,nanded,1988,19395,7114,629,12702,2052,157
+maharashtra,nanded,1989,17605,5213,385,13756,2267,158
+maharashtra,nashik,1988,46209,13003,1122,42050,8667,1479
+maharashtra,nashik,1989,47917,11994,996,42398,8482,1135
+maharashtra,osmanabad,1988,17164,4749,464,4747,706,33
+maharashtra,osmanabad,1989,15922,4017,322,4807,764,65
+maharashtra,parbhani,1988,15923,5872,577,10094,2255,224
+maharashtra,parbhani,1989,16090,4922,388,10847,2082,195
+maharashtra,pune,1988,41792,9970,734,67741,19102,2693
+maharashtra,pune,1989,42348,9159,668,67887,19124,2555
+maharashtra,raigarh (kolaba),1988,14252,5069,316,11597,1535,97
+maharashtra,raigarh (kolaba),1989,13622,4995,200,12323,1573,125
+maharashtra,ratnagiri,1988,27447,8118,314,7921,1175,49
+maharashtra,ratnagiri,1989,27338,8225,236,7421,1081,49
+maharashtra,sangli,1988,29507,7146,433,16663,4752,690
+maharashtra,sangli,1989,25752,6378,315,17658,5073,621
+maharashtra,satara,1988,36997,10594,649,16939,2619,313
+maharashtra,satara,1989,35725,10275,520,16912,2670,311
+maharashtra,sindhudurg,1988,10992,5330,211,4493,818,123
+maharashtra,sindhudurg,1989,10919,5143,101,4684,836,110
+maharashtra,solapur,1988,39883,9619,772,33929,7678,932
+maharashtra,solapur,1989,38733,8932,545,34346,7492,863
+maharashtra,thane,1988,22042,7021,488,62398,9930,969
+maharashtra,thane,1989,18804,5788,314,59574,9676,924
+maharashtra,wardha,1988,11762,5493,577,8330,1994,226
+maharashtra,wardha,1989,12132,4431,472,8735,1719,194
+maharashtra,yavatmal,1988,20377,8068,909,12678,2807,422
+maharashtra,yavatmal,1989,19116,6213,731,13561,2453,327
+manipur,bishenpur,1988,81,63,0,110,21,0
+manipur,bishenpur,1989,117,45,0,228,28,0
+manipur,chandel,1988,83,12,0,.,0,.
+manipur,chandel,1989,106,17,2,.,0,.
+manipur,churachandpur,1988,12,5,0,83,0,0
+manipur,churachandpur,1989,377,21,0,75,0,0
+manipur,imphal,1988,195,52,0,6211,774,70
+manipur,imphal,1989,232,61,0,5723,872,76
+manipur,senapati,1988,33,15,1,.,.,.
+manipur,senapati,1989,65,34,1,.,.,.
+manipur,tamenglong,1988,78,20,0,.,.,.
+manipur,tamenglong,1989,63,4,0,.,.,.
+manipur,thoubal,1988,58,4,0,417,55,0
+manipur,thoubal,1989,219,26,0,754,23,0
+manipur,ukhrul,1988,64,20,3,.,.,.
+manipur,ukhrul,1989,38,8,2,.,.,.
+meghalaya mizoram,aizawl,1988,6853,1281,130,4264,744,133
+meghalaya mizoram,aizawl,1989,6563,1421,120,4555,811,108
+meghalaya mizoram,chhimtuipul,1988,1641,307,35,251,120,12
+meghalaya mizoram,chhimtuipul,1989,1377,318,38,171,58,21
+meghalaya mizoram,lunglei,1988,1465,290,23,823,209,14
+meghalaya mizoram,lunglei,1989,1309,310,39,1071,218,16
+nagaland,kohima,1988,3657,734,19,5656,429,14
+nagaland,kohima,1989,3890,648,0,5784,458,0
+nagaland,mokokchung,1988,574,124,12,181,66,6
+nagaland,mokokchung,1989,596,138,2,863,77,5
+nagaland,mon,1988,990,407,14,315,109,0
+nagaland,mon,1989,870,435,0,345,104,0
+nagaland,phek,1988,1435,362,10,.,.,.
+nagaland,phek,1989,1830,370,8,.,.,.
+nagaland,tuensang,1988,1774,270,19,295,52,12
+nagaland,tuensang,1989,1503,216,18,168,70,7
+nagaland,wokha,1988,1009,174,11,191,5,0
+nagaland,wokha,1989,1103,133,23,226,8,1
+nagaland,zunebota,1988,968,243,24,184,42,7
+nagaland,zunebota,1989,976,236,26,196,40,9
+orissa,balangir,1988,33640,8514,1854,3745,1058,209
+orissa,balangir,1989,28533,9693,2002,3585,1080,174
+orissa,baleshwar,1988,49010,18421,3129,5235,1708,288
+orissa,baleshwar,1989,46887,13876,3209,5388,1922,343
+orissa,cuttack,1988,88222,26186,5898,17805,5700,1018
+orissa,cuttack,1989,86184,29003,6504,19656,6182,1326
+orissa,dhenkanal,1988,34608,10321,2254,3254,1108,207
+orissa,dhenkanal,1989,34176,12084,2629,3624,1112,206
+orissa,ganjam,1988,56449,17435,3833,14646,3885,839
+orissa,ganjam,1989,55211,20607,4489,15269,3879,878
+orissa,kalahandi,1988,26053,8806,1648,1845,580,97
+orissa,kalahandi,1989,26989,10485,2048,1986,619,96
+orissa,kendujhar,1988,23495,7817,1491,1916,701,115
+orissa,kendujhar,1989,22592,8713,1580,2110,753,77
+orissa,koraput,1988,43293,17488,2354,4542,1510,172
+orissa,koraput,1989,44567,20669,3181,5178,1585,153
+orissa,mayurbhanj,1988,35444,10605,1530,3486,1262,210
+orissa,mayurbhanj,1989,35800,11914,1901,3580,1454,223
+orissa,phulabani,1988,19570,6595,1657,880,380,97
+orissa,phulabani,1989,16837,8222,1786,819,356,70
+orissa,puri,1988,49261,15552,3318,17032,4358,965
+orissa,puri,1989,52779,17155,3963,18121,4697,1121
+orissa,sambalpur,1988,39172,12706,1871,10751,3190,449
+orissa,sambalpur,1989,39959,13866,2266,12616,3462,473
+orissa,sundargarh,1988,23715,8252,1656,8549,1887,266
+orissa,sundargarh,1989,24821,9446,1912,9011,1992,282
+punjab,amritsar,1988,31371,9551,441,24581,8868,1893
+punjab,amritsar,1989,34089,8933,364,23774,8823,1839
+punjab,bhatinda,1988,20481,6705,363,10769,1807,126
+punjab,bhatinda,1989,20804,6361,194,10328,1499,91
+punjab,faridkot,1988,26298,6994,362,12749,2553,253
+punjab,faridkot,1989,25931,7213,358,12155,2365,239
+punjab,firozpur,1988,23837,6115,385,10056,2014,183
+punjab,firozpur,1989,24379,6343,403,9375,1863,156
+punjab,gurdaspur,1988,31744,8199,580,11442,2489,241
+punjab,gurdaspur,1989,32144,8299,598,11178,2292,203
+punjab,hoshiarpur,1988,26112,8566,918,6444,1927,198
+punjab,hoshiarpur,1989,28408,9380,834,6131,1671,202
+punjab,jalandhar,1988,24595,8111,621,22441,5214,277
+punjab,jalandhar,1989,24922,7190,546,21316,4626,294
+punjab,kapurthala,1988,9504,2633,148,4806,997,80
+punjab,kapurthala,1989,10280,2503,150,4904,914,78
+punjab,ludhiana,1988,28788,12457,1578,24414,9521,684
+punjab,ludhiana,1989,23175,7686,563,32977,9267,768
+punjab,patiala,1988,19826,6369,220,17817,4457,490
+punjab,patiala,1989,18684,5623,210,18749,5240,447
+punjab,rupnagar,1988,12101,4533,478,7330,1128,149
+punjab,rupnagar,1989,13017,4239,422,6115,1083,91
+punjab,sangrur,1988,22345,7363,275,14636,1920,80
+punjab,sangrur,1989,23554,7124,299,14928,1916,61
+rajasthan,ajmer,1988,3971,3793,203,16575,4579,461
+rajasthan,ajmer,1989,4919,3063,191,15731,4182,315
+rajasthan,alwar,1988,9235,4019,249,5759,1241,26
+rajasthan,alwar,1989,7903,2816,140,6033,1153,53
+rajasthan,banswara,1988,1901,2088,69,2261,498,73
+rajasthan,banswara,1989,2069,1727,40,2865,497,100
+rajasthan,barmer,1988,1792,975,68,1748,280,1
+rajasthan,barmer,1989,2866,439,49,1181,383,0
+rajasthan,bharatpur,1988,5904,2658,100,8603,1383,57
+rajasthan,bharatpur,1989,6056,2193,55,8058,1543,45
+rajasthan,bhilwara,1988,2301,2863,145,5626,1400,185
+rajasthan,bhilwara,1989,2908,2928,144,5830,1645,133
+rajasthan,bikaner,1988,1926,1346,50,6015,2484,359
+rajasthan,bikaner,1989,1800,1086,1,6656,2531,401
+rajasthan,bundi,1988,1730,1256,97,3942,995,152
+rajasthan,bundi,1989,1962,1251,84,4599,852,99
+rajasthan,chittaurgarh,1988,3331,4236,263,1893,933,56
+rajasthan,chittaurgarh,1989,2881,2965,178,1698,827,45
+rajasthan,churu,1988,3237,1995,104,3184,1362,46
+rajasthan,churu,1989,3975,1601,64,3671,1191,57
+rajasthan,dungarpur,1988,1720,3007,81,1385,669,59
+rajasthan,dungarpur,1989,1110,1180,19,1450,593,123
+rajasthan,dholpur,1988,3501,1827,97,3968,557,62
+rajasthan,dholpur,1989,2982,1461,82,4850,528,40
+rajasthan,ganganagar,1988,3793,4012,65,5524,2106,144
+rajasthan,ganganagar,1989,3297,3696,42,5477,1979,94
+rajasthan,jaipur,1988,7532,4907,326,34624,7335,362
+rajasthan,jaipur,1989,6784,3931,304,37417,7006,373
+rajasthan,jaisalmer,1988,2634,445,13,835,158,3
+rajasthan,jaisalmer,1989,2016,255,.,788,121,.
+rajasthan,jalor,1988,2380,940,33,1548,241,1
+rajasthan,jalor,1989,4013,1204,109,1658,229,4
+rajasthan,jhalawar,1988,3885,2720,180,2236,839,42
+rajasthan,jhalawar,1989,3128,1751,73,2456,819,27
+rajasthan,jhunjhunun,1988,5313,2056,122,3576,1068,20
+rajasthan,jhunjhunun,1989,4316,1173,102,4503,850,80
+rajasthan,jodhpur,1988,2378,2075,263,6330,3625,190
+rajasthan,jodhpur,1989,4692,2549,178,9546,3250,166
+rajasthan,kota,1988,5307,2434,183,21258,2080,151
+rajasthan,kota,1989,4002,1872,45,22462,2078,68
+rajasthan,nagaur,1988,8886,4462,184,2914,660,15
+rajasthan,nagaur,1989,7713,3581,117,2569,590,8
+rajasthan,pali,1988,1874,1640,97,1735,693,5
+rajasthan,pali,1989,2278,1426,58,3271,806,25
+rajasthan,sawai madhopur,1988,9724,4905,167,3738,892,72
+rajasthan,sawai madhopur,1989,8358,3778,156,4065,844,73
+rajasthan,sikar,1988,4022,2155,115,7963,1849,237
+rajasthan,sikar,1989,3407,1676,29,7841,1681,216
+rajasthan,sirohi,1988,786,703,53,2086,487,34
+rajasthan,sirohi,1989,692,620,45,2341,492,53
+rajasthan,tonk,1988,3383,1906,183,1946,674,40
+rajasthan,tonk,1989,3061,1645,114,2358,676,73
+rajasthan,udaipur,1988,3840,5105,315,9715,2793,397
+rajasthan,udaipur,1989,3862,3757,170,11102,2678,239
+sikkim,east,1988,291,47,3,1186,78,9
+sikkim,east,1989,.,.,.,.,.,.
+sikkim,north,1988,146,12,1,65,37,4
+sikkim,north,1989,.,.,.,.,.,.
+sikkim,south,1988,596,33,0,265,31,.
+sikkim,south,1989,.,.,.,.,.,.
+sikkim,west,1988,436,39,0,132,22,3
+sikkim,west,1989,.,.,.,.,.,.
+tamil nadu,anna (dindigul quaid-e-milleth),1988,10136,7704,493,13990,2531,269
+tamil nadu,anna (dindigul quaid-e-milleth),1989,13757,8792,550,16610,2822,268
+tamil nadu,chingleput,1988,21791,14795,703,39109,7893,583
+tamil nadu,chingleput,1989,24321,16373,754,42527,8527,500
+tamil nadu,coimbatore,1988,7844,10720,351,47065,11644,1126
+tamil nadu,coimbatore,1989,8580,9461,426,49666,10637,684
+tamil nadu,dharmapuri,1988,13805,6625,224,11922,1206,55
+tamil nadu,dharmapuri,1989,19040,8476,232,12258,1350,80
+tamil nadu,kamarajar,1988,6612,5264,310,17010,2596,265
+tamil nadu,kamarajar,1989,7937,5399,318,19601,2804,290
+tamil nadu,kanyakumari,1988,17887,7506,442,13785,2372,238
+tamil nadu,kanyakumari,1989,17657,7284,411,15312,2471,244
+tamil nadu,madras ,1988,.,.,.,95554,33438,4907
+tamil nadu,madras ,1989,.,.,.,99459,33703,4459
+tamil nadu,madurai,1988,14389,9064,878,41720,7864,652
+tamil nadu,madurai,1989,17025,10617,877,45062,8265,570
+tamil nadu,nilgiris,1988,2021,922,71,8112,1728,228
+tamil nadu,nilgiris,1989,2084,1204,71,8123,2261,224
+tamil nadu,north arcot,1988,45273,23349,2131,45430,8884,1049
+tamil nadu,north arcot,1989,49973,25353,2141,48157,9489,1004
+tamil nadu,periyar,1988,9497,9880,387,22870,3278,286
+tamil nadu,periyar,1989,12404,11219,473,25512,3642,308
+tamil nadu,pudukottai,1988,5836,4333,59,10529,914,98
+tamil nadu,pudukottai,1989,6826,5241,51,11410,885,84
+tamil nadu,p m ramalingam,1988,4187,3478,102,10919,1263,114
+tamil nadu,p m ramalingam,1989,5103,4044,92,12515,1435,106
+tamil nadu,ramnad (ramnathapuram),1988,5293,3091,132,11979,1128,71
+tamil nadu,ramnad (ramnathapuram),1989,6072,3554,145,13142,1089,55
+tamil nadu,salem,1988,22580,14905,1252,43143,6780,708
+tamil nadu,salem,1989,25647,17335,1673,45642,7302,720
+tamil nadu,south arcot,1988,44022,23651,2427,30554,4207,462
+tamil nadu,south arcot,1989,49850,28412,2609,32186,4767,535
+tamil nadu,thanjavur,1988,21411,22940,800,56003,7783,835
+tamil nadu,thanjavur,1989,23313,23963,796,57239,7511,804
+tamil nadu,trichy (tiruchirappalli),1988,23763,19731,627,35395,6518,584
+tamil nadu,trichy (tiruchirappalli),1989,27501,21161,736,43359,7184,628
+tamil nadu,tirunelveli,1988,16201,7261,310,20946,4247,352
+tamil nadu,tirunelveli,1989,19026,8139,313,21007,4384,347
+tamil nadu,v.o.c (chidambaram),1988,5584,3966,174,16042,2380,210
+tamil nadu,v.o.c (chidambaram),1989,6287,4087,144,18188,2508,223
+tripura,north tripura,1988,12058,1219,83,2325,625,38
+tripura,north tripura,1989,14852,1183,69,2507,626,72
+tripura,south tripura,1988,4823,596,23,2095,362,28
+tripura,south tripura,1989,6811,605,9,2088,332,41
+tripura,west tripura,1988,11365,932,7,7535,1838,34
+tripura,west tripura,1989,13576,1042,26,6979,1657,9
+uttar pradesh,agra,1988,1860,256,26,38747,8345,0
+uttar pradesh,agra,1989,1515,151,23,38756,9457,1172
+uttar pradesh,aligarh,1988,12259,2253,14,3205,1033,130
+uttar pradesh,aligarh,1989,12245,2238,198,3202,1030,126
+uttar pradesh,allahabad,1988,19658,9093,1935,14748,2623,211
+uttar pradesh,allahabad,1989,32235,10056,300,15198,2782,170
+uttar pradesh,almora,1988,3148,1413,19,1048,455,89
+uttar pradesh,almora,1989,3358,1096,13,1023,495,101
+uttar pradesh,azamgarh,1988,57290,1953,219,3653,936,87
+uttar pradesh,azamgarh,1989,52662,1322,157,4736,1116,132
+uttar pradesh,bahraich,1988,8398,2583,35,1836,1306,161
+uttar pradesh,bahraich,1989,1640,477,0,2148,1291,203
+uttar pradesh,ballia,1988,23457,228,41,4563,889,22
+uttar pradesh,ballia,1989,28016,448,0,4704,939,20
+uttar pradesh,banda,1988,6282,1860,59,164,233,0
+uttar pradesh,banda,1989,25580,6390,360,184,238,0
+uttar pradesh,barabanki,1988,11045,3507,292,116,100,0
+uttar pradesh,barabanki,1989,11026,3976,147,220,117,0
+uttar pradesh,bareilly,1988,17018,5193,281,8974,3781,356
+uttar pradesh,bareilly,1989,12271,1047,22,9256,3614,351
+uttar pradesh,basti,1988,46754,17266,0,3025,548,0
+uttar pradesh,basti,1989,62288,23341,52,3341,648,17
+uttar pradesh,bijnor,1988,27116,5182,0,2691,676,123
+uttar pradesh,bijnor,1989,27656,4905,0,3140,565,78
+uttar pradesh,badaun,1988,31927,1374,216,4812,953,55
+uttar pradesh,badaun,1989,48187,1521,336,2808,994,32
+uttar pradesh,bulandshahar,1988,25149,8228,413,3974,1107,72
+uttar pradesh,bulandshahar,1989,23988,7046,388,3870,961,35
+uttar pradesh,chamoli,1988,3104,998,8,233,36,0
+uttar pradesh,chamoli,1989,2921,927,23,247,40,0
+uttar pradesh,dehradun,1988,5107,681,32,10185,2456,118
+uttar pradesh,dehradun,1989,5261,645,40,9084,2162,140
+uttar pradesh,deoria,1988,150952,3013,984,1669,632,0
+uttar pradesh,deoria,1989,99619,8205,2878,2752,732,0
+uttar pradesh,etah,1988,5849,1596,7,1616,488,24
+uttar pradesh,etah,1989,.,.,.,1629,362,22
+uttar pradesh,etawah,1988,18099,2034,293,1970,1014,24
+uttar pradesh,etawah,1989,27738,4263,165,2320,1138,33
+uttar pradesh,faizabad,1988,21608,4302,114,10235,1918,59
+uttar pradesh,faizabad,1989,20305,4523,68,11401,3003,46
+uttar pradesh,farukhab,1988,13536,4903,1000,629,750,0
+uttar pradesh,farukhab,1989,6144,2830,741,4409,1459,0
+uttar pradesh,fatehpur,1988,5160,824,56,127,233,0
+uttar pradesh,fatehpur,1989,9476,1145,29,185,248,0
+uttar pradesh,garhwal (pauri),1988,7328,2237,18,1050,345,26
+uttar pradesh,garhwal (pauri),1989,8107,2073,20,1223,328,12
+uttar pradesh,gaziabad,1988,.,.,.,.,.,.
+uttar pradesh,gaziabad,1989,5,2,0,10339,2464,176
+uttar pradesh,ghazipur,1988,44017,5110,45,394,211,0
+uttar pradesh,ghazipur,1989,38390,4831,0,293,183,0
+uttar pradesh,gonda,1988,9705,6020,171,2254,1286,401
+uttar pradesh,gonda,1989,10754,7331,202,2357,420,0
+uttar pradesh,gorakhpur,1988,10917,5318,0,2656,1761,3
+uttar pradesh,gorakhpur,1989,8928,5023,0,2705,1768,3
+uttar pradesh,hamirpur,1988,17571,1596,58,204,340,2
+uttar pradesh,hamirpur,1989,17829,1572,33,133,242,2
+uttar pradesh,hardoi,1988,15713,3730,54,459,455,9
+uttar pradesh,hardoi,1989,8257,1894,38,521,469,8
+uttar pradesh,jalaun,1988,590,106,5,.,.,.
+uttar pradesh,jalaun,1989,663,232,10,3059,321,0
+uttar pradesh,jaunpur,1988,12122,4961,67,481,294,3
+uttar pradesh,jaunpur,1989,11908,4709,46,635,279,1
+uttar pradesh,jhansi,1988,15489,1566,423,6379,3418,583
+uttar pradesh,jhansi,1989,13509,1189,407,6058,1973,140
+uttar pradesh,kanpur,1988,9283,1801,177,16179,7678,307
+uttar pradesh,kanpur,1989,8147,1281,123,15207,7127,215
+uttar pradesh,kheri ( lakhipur),1988,20695,9349,486,4950,1938,191
+uttar pradesh,kheri ( lakhipur),1989,22625,9847,389,5156,1755,180
+uttar pradesh,lalitpur,1988,3278,826,0,2724,546,10
+uttar pradesh,lalitpur,1989,6602,1206,0,2994,535,17
+uttar pradesh,lucknow,1988,9624,3248,124,38214,14595,996
+uttar pradesh,lucknow,1989,11388,3719,196,39796,14735,1065
+uttar pradesh,mainpuri,1988,.,.,.,727,553,23
+uttar pradesh,mainpuri,1989,9396,1129,356,412,297,34
+uttar pradesh,mathura,1988,3470,1571,204,8002,2148,143
+uttar pradesh,mathura,1989,9396,1129,356,7623,1319,106
+uttar pradesh,meerut,1988,8623,1545,223,19603,4481,17
+uttar pradesh,meerut,1989,10879,2220,401,21552,3784,9
+uttar pradesh,mirzapur,1988,10736,1488,175,742,514,13
+uttar pradesh,mirzapur,1989,10401,1126,190,1498,602,16
+uttar pradesh,moradabad,1988,13630,2755,149,15057,3563,120
+uttar pradesh,moradabad,1989,12711,2915,202,10632,5953,400
+uttar pradesh,muzaffarnagar,1988,20893,4852,89,8526,1915,216
+uttar pradesh,muzaffarnagar,1989,24883,6333,107,8672,2258,180
+uttar pradesh,nainital,1988,6906,609,107,3985,591,8
+uttar pradesh,nainital,1989,9568,1556,138,1697,776,25
+uttar pradesh,pilibhit,1988,7014,639,22,595,344,5
+uttar pradesh,pilibhit,1989,10149,1122,20,624,366,6
+uttar pradesh,pithoragarh,1988,7471,593,76,265,202,6
+uttar pradesh,pithoragarh,1989,7489,440,67,249,45,0
+uttar pradesh,pratapgarh,1988,7937,946,1,772,393,0
+uttar pradesh,pratapgarh,1989,33654,1634,0,940,345,0
+uttar pradesh,rae bareli,1988,18936,795,45,680,382,9
+uttar pradesh,rae bareli,1989,9587,1217,37,1443,385,24
+uttar pradesh,rampur,1988,5010,607,64,2715,646,0
+uttar pradesh,rampur,1989,9591,1193,105,3392,610,3
+uttar pradesh,saharanpur,1988,37409,4887,388,6720,1626,283
+uttar pradesh,saharanpur,1989,32233,3442,301,4134,1225,210
+uttar pradesh,shahjahanpur,1988,9665,3333,578,4241,1435,164
+uttar pradesh,shahjahanpur,1989,18103,7334,508,3933,1530,181
+uttar pradesh,sitapur,1988,.,.,.,1388,242,0
+uttar pradesh,sitapur,1989,.,.,.,1260,174,0
+uttar pradesh,sultanpur,1988,32751,3520,142,4492,625,122
+uttar pradesh,sultanpur,1989,37282,2341,174,4702,730,154
+uttar pradesh,tehri garhwal,1988,5907,1770,178,138,44,2
+uttar pradesh,tehri garhwal,1989,6601,1628,155,192,50,1
+uttar pradesh,unnao,1988,13538,3416,361,4135,614,86
+uttar pradesh,unnao,1989,14255,4009,413,4521,613,80
+uttar pradesh,uttar kashi,1988,1132,353,10,290,90,10
+uttar pradesh,uttar kashi,1989,1523,534,79,70,14,0
+uttar pradesh,varanasi,1988,37059,17174,3248,37871,10737,545
+uttar pradesh,varanasi,1989,25887,11414,1160,25364,7255,567
+west bengal,bankura,1988,23526,3002,96,7433,1639,10
+west bengal,bankura,1989,30885,5296,219,4697,894,7
+west bengal,barddhanian,1988,35288,4426,83,28957,6235,48
+west bengal,barddhanian,1989,40128,5104,212,36062,6570,54
+west bengal,birbhum,1988,6720,1153,24,1907,209,25
+west bengal,birbhum,1989,20621,4366,83,7489,1771,2
+west bengal,calcutta ,1988,.,.,.,36389,13200,2794
+west bengal,calcutta ,1989,.,.,.,34482,18612,2835
+west bengal,darjiling,1988,5653,2189,20,8520,1588,112
+west bengal,darjiling,1989,1409,548,28,8408,2431,104
+west bengal,haora,1988,4603,398,8,15290,7460,694
+west bengal,haora,1989,8709,1251,9,25129,7967,700
+west bengal,hugli,1988,14151,1389,20,23794,6480,299
+west bengal,hugli,1989,14013,1032,44,39182,8484,269
+west bengal,jalpaiguri,1988,16871,3982,268,4796,1581,0
+west bengal,jalpaiguri,1989,25321,6483,187,7136,1816,6
+west bengal,koch bihar,1988,7648,2207,8,4544,1251,0
+west bengal,koch bihar,1989,7175,1366,36,6771,1553,20
+west bengal,maldah,1988,9319,2943,23,8506,2122,12
+west bengal,maldah,1989,10828,2645,43,6050,2177,0
+west bengal,midnapur,1988,22107,5758,154,12289,3274,45
+west bengal,midnapur,1989,15297,3800,217,11633,2636,50
+west bengal,murshidabad,1988,8538,2556,41,2311,393,0
+west bengal,murshidabad,1989,8691,2473,42,1119,102,13
+west bengal,nadia,1988,27066,3337,53,16640,4510,128
+west bengal,nadia,1989,27933,3742,143,15662,4930,119
+west bengal,puruliya,1988,6256,1228,78,3667,1050,36
+west bengal,puruliya,1989,1656,411,38,4048,1477,89
+west bengal,twentyfour parganas,1988,9217,2188,30,41931,9149,471
+west bengal,twentyfour parganas,1989,16065,4529,86,54365,12604,364
+west bengal,west dinajpur,1988,11105,4204,0,4493,981,79
+west bengal,west dinajpur,1989,7359,2246,4,6460,1430,72
+andaman & nicobar islands,andaman,1988,.,.,.,.,.,.
+andaman & nicobar islands,andaman,1989,2511,216,16,2068,420,57
+andaman & nicobar islands,nicobar,1988,.,.,.,.,.,.
+andaman & nicobar islands,nicobar,1989,820,199,52,.,.,.
+chandigarh,chandigarh,1988,640,171,1,1626,5331,864
+chandigarh,chandigarh,1989,762,150,5,16985,5185,754
+dadra & nagar haveli,dadra & nagar haveli,1988,3362,675,53,.,.,.
+dadra & nagar haveli,dadra & nagar haveli,1989,3413,749,50,.,.,.
+daman & diu,daman,1988,.,.,.,.,.,.
+daman & diu,daman,1989,.,.,.,.,.,.
+daman & diu,diu,1988,.,.,.,.,.,.
+daman & diu,diu,1989,.,.,.,.,.,.
+delhi,delhi,1988,23291,2360,17,219699,55183,9192
+delhi,delhi,1989,25265,2128,25,220684,56712,9817
+lakshadweep,lakshadweep,1988,.,.,.,.,.,.
+lakshadweep,lakshadweep,1989,.,.,.,.,.,.
+pondicherry,karaikal,1988,1475,482,21,3103,770,78
+pondicherry,karaikal,1989,1399,489,10,3304,743,88
+pondicherry,mahe,1988,435,99,0,938,164,6
+pondicherry,mahe,1989,488,106,0,1259,158,6
+pondicherry,pondicherry,1988,6326,1329,121,17525,4437,867
+pondicherry,pondicherry,1989,6044,1333,73,118744,4570,924
+pondicherry,yanam ,1988,.,.,.,574,91,14
+pondicherry,yanam ,1989,.,.,.,504,85,3
